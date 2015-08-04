@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Splash</string>
+
+    <string name="splash">SPLASH</string>
+    <string name="main_activity">Main activity</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!-- Squared -->
+    <style name="baseSquared">
+        <item name="android:textSize">@dimen/button_text_size</item>
+    </style>
+
+    <style name="stdSquaredCorner" parent="baseSquared">
+        <item name="android:background">@color/Squared_background</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>
